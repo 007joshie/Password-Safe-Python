@@ -1,5 +1,21 @@
 # Password-Safe-Python
+
+## Description 
 An lightweight encryption based Password Safe. This was a NCEA level 2 High school project coded in Python 3.4.3. This program features the ability to Add / Change / Remove Apps and their passwords associated. Users must create an account, they will login in to their account with an Email address and a Pincode they have choosen.
+
+## Download
+Simply Download the 'Key safe.py', Make sure you are running python version 3 or higher. 
+
+## Add-ons
+No Add-ons required!!!
+This program works with just the Python Vanilla Libraries :)
+
+
+
+
+
+
+# Code:
 ```
 from random import randint
 import sys
