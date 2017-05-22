@@ -10,10 +10,14 @@ Simply Download the 'Key safe.py', Make sure you are running python version 3 or
 No Add-ons required!!!
 This program works with just the Python Vanilla Libraries :)
 
+### Menu
+![Menu System](http://i.imgur.com/41cmK6X.png)
 
+### View Passwords
+![Passwords](http://i.imgur.com/b9iiWlq.png)
 
-
-
+### Remove Apps
+![Remove Apps](http://i.imgur.com/LSD93o8.png)
 
 # Code:
 ```
