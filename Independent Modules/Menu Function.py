@@ -48,6 +48,6 @@ def mainMenu():
         clr()                                                                                   
         exportData()                                                                            
         endProgram(str("Thank you,"+userName+"! Have a good day!\nClosing..."))
-userName="Josh"
-userApps=["hi"]
+userName="name" #for debug
+userApps=["hi"] #for debug
 mainMenu()
