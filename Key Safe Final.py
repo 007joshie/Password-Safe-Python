@@ -1,18 +1,3 @@
-#########################################################################################################################################################################################
-#
-#                   Title: Key Safe
-#                   Python Version: 3.4.3
-#                   File Name: "Key Safe Final.py"
-#                   File Version: 7                  
-#                   Last Eddited: 19/05/2017
-#
-#       Kia Ora,
-#       Welcome to my Password Safe program. My goal was to create an advanced program with the following criteria
-#           - Must have an encrpted file system
-#           - Must be created with Vanilla Python (No add-ons)
-#
-#       
-###########################################################################################################################################################################################
 from sys import exit                                                                            # Import python defined native exit function
 import sys,re,os                                                                                # Import system, read expression, operating system modules                                                              
 def startMenu():                                                                                # Defining the 'startMenu()' Function
