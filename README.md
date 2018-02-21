@@ -43,7 +43,7 @@ Once the program is running you should be prompted with the menu below:
 
 Enter first name, as shown below
     
-   ![Enter Name](https://i.imgur.com/TRHtQkU.png)
+   ![Enter Name](https://i.imgur.com/TRHtQkU.png?1)
 
 Enter your email address **(This is for logging in, so don't forget it)**
 
