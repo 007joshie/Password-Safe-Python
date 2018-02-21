@@ -35,7 +35,7 @@ Either:
     - Press F5 to Run
 
 **or**
- - Go to [Key Safe](Password-Safe-Python/Key Safe Final.py) and CTRL+A & CTRL+C to select all text and copy to clipboard
+ - Go to Key Safe Final.py and CTRL+A & CTRL+C to select all text and copy to clipboard
  - Go to Python IDLE
  - File - New File
  - CTRL+V to paste entire code into the file
