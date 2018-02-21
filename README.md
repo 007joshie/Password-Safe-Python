@@ -36,7 +36,6 @@ Either:
 
 ### First Time Run:
 Once the program is running you should be prompted with the menu below:
-
    ![Menu](https://i.imgur.com/7Bebd8P.png)
    
   The first thing you want to do is create an account so press "2" and press enter.
