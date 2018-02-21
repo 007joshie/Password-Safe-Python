@@ -15,15 +15,6 @@ An lightweight encryption based Password Safe. This was a NCEA level 2 High scho
 No Add-ons required!!!
 This program works with just the Python Vanilla Libraries :)
 
-### Menu
-![Menu System](http://i.imgur.com/41cmK6X.png)
-
-### View Passwords
-![Passwords](http://i.imgur.com/b9iiWlq.png)
-
-### Remove Apps
-![Remove Apps](http://i.imgur.com/LSD93o8.png)
-
 # How To Use:
 
 ### Download:
@@ -42,3 +33,7 @@ Either:
  - CTRL+S to save file, **(This can be saved as any filename)**
 
 ### First Time Run:
+Once the program is running you should be prompted with the menu below:
+![Menu](https://imgur.com/a/yNxEu.png)
+
+
