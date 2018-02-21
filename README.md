@@ -1,7 +1,7 @@
 # Password-Safe-Python
 
 Jump to:
-- [How To Use](page#How-To-Use)
+- [How To Use](page#how-to-use)
     - [Download](page#Download)
 
 ## Description 
