@@ -42,7 +42,8 @@ Once the program is running you should be prompted with the menu below:
   The first thing you want to do is create an account so press "2" and press enter.
 
 Enter first name, as shown below
-![Enter Name](https://i.imgur.com/TRHtQkU.png)
+    
+    ![Enter Name](https://i.imgur.com/TRHtQkU.png)
 
 Enter your email address **(This is for logging in, so don't forget it)**
 
