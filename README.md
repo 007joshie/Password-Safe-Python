@@ -3,10 +3,12 @@
 Jump to:
 - [How To Use](#how-to-use)
     - [Download](#download)
-    - [First Time Run](#first-time-run)
+    - [Creating an Account](#first-time-run)
 
 ## Description 
 An lightweight encryption based Password Safe. This was a NCEA level 2 High school project coded in Python 3.4.3. This program features the ability to Add / Change / Remove Apps and their passwords associated. Users must create an account, they will login in to their account with an email address and an entry pincode they have choosen.
+
+**NO SERVERS, Everything is purely on your computer**
 
 ## Requirements
  - Python 3.4 GUI or Higher (32 Bit or 64 Bit)
@@ -36,4 +38,16 @@ Either:
 Once the program is running you should be prompted with the menu below:
 
    ![Menu](https://i.imgur.com/7Bebd8P.png)
+   
+  The first thing you want to do is create an account so press "2" and press enter.
 
+Enter first name, as shown below
+![Enter Name](https://i.imgur.com/TRHtQkU.png)
+
+Enter your email address **(This is for logging in, so don't forget it)**
+
+   ![Enter Email](https://i.imgur.com/dEOk1J7.png)
+
+Finally in the Account setup, enter your pincode! **(This is also for logging in and changing your pincode in the future)**
+
+   ![Pincode](https://i.imgur.com/cdzRSG5.png)
