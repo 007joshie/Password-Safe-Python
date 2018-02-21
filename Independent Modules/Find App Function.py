@@ -1,5 +1,5 @@
 apps=["Google","Gmail","Drive","Docs","Sheets"]
-passwords=["Yoshie","Gmail","Drive","Docs","Sheets"]
+passwords=["password1","Gmail","Drive","Docs","Sheets"]
 
 def clr():
     print("\n"*50)
