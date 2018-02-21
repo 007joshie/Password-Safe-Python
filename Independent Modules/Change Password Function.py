@@ -1,4 +1,4 @@
-apps=['Google','Facebook','Instagram']
+apps=['App1','App2','App3']
 password=['undefined','undefined','undefined']
 input_1=input("name of app")
 if input_1 in apps:
