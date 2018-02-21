@@ -58,4 +58,6 @@ Finally in the Account setup, enter your pincode! **(This is also for logging in
 
    ![Pincode](https://i.imgur.com/cdzRSG5.png)
    
+Pincode must follow the Pincode rules else the program will not continue
+   
 ---
