@@ -34,6 +34,7 @@ Either:
 
 ### First Time Run:
 Once the program is running you should be prompted with the menu below:
+```
 ![Menu](https://i.imgur.com/7Bebd8P.png)
-
+```
 
