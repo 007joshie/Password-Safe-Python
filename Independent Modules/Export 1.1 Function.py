@@ -16,10 +16,10 @@
 #----------------------------------------------------------
 #                    USER EDITOR                    
 
-userEmail=str("josh.boag@npbhs.school.nz")
-userPincode=str("abcD1234")
-name=str("Joshua")
-userApps=['Google','Facebook','Instagram']          
+userEmail=str("example@example.com")
+userPincode=str("abc123")
+name=str("Name")
+userApps=['App1','App2','App3']          
 userPassword=['undefined','undefined','undefined']
 
 #Custom Encryption Key (Must be a number)
