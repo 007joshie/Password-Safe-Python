@@ -1,7 +1,7 @@
 # Password-Safe-Python
 
 Jump to:
-- [How To Use](##how-to-use)
+- [How To Use](#how-to-use)
     - [Download](page#Download)
 
 ## Description 
@@ -23,7 +23,7 @@ This program works with just the Python Vanilla Libraries :)
 ### Remove Apps
 ![Remove Apps](http://i.imgur.com/LSD93o8.png)
 
-## How To Use:
+# How To Use:
 
 ### Download
 
