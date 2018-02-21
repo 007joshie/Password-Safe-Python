@@ -38,7 +38,8 @@ Either:
 Once the program is running you should be prompted with the menu below:
 
    ![Menu](https://i.imgur.com/7Bebd8P.png)
-   The first thing you want to do is create an account so press "2" and press enter.
+   
+The first thing you want to do is create an account so press "2" and press enter.
 Enter first name, as shown below
     
    ![Enter Name](https://i.imgur.com/TRHtQkU.png?1)
