@@ -34,7 +34,7 @@ Either:
  - CTRL+V to paste entire code into the file
  - CTRL+S to save file, **(This can be saved as any filename)**
  
-=====
+---
 
 ### First Time Run:
 Once the program is running you should be prompted with the menu below:
@@ -46,15 +46,16 @@ Enter first name, as shown below
     
    ![Enter Name](https://i.imgur.com/TRHtQkU.png?1)
    
-======
+---
 
 Enter your email address **(This is for logging in, so don't forget it)**
 
    ![Enter Email](https://i.imgur.com/dEOk1J7.png)
    
-======
+---
 
 Finally in the Account setup, enter your pincode! **(This is also for logging in and changing your pincode in the future)**
 
    ![Pincode](https://i.imgur.com/cdzRSG5.png)
-======
+   
+---
