@@ -27,7 +27,7 @@ def startMenu():                                                                
         print("Greetings, "+userName+".")                                                       # Greet user
         userEmailChange()                                                                       # User inputs their Email Address (Function will return)
         userPincodeChange()                                                                     # User Inputs their login Pincode (Function will return)
-        emailData=(userEmail.split("@")[1]).split(".")[0].capitalize()                          # Grabs the provider (josh.boag@Npbhs.com, "Npbhs" in this email)
+        emailData=(userEmail.split("@")[1]).split(".")[0].capitalize()                          # Grabs the provider (bob.john@example.com, "Npbhs" in this email)
         userApps=[str(emailData),'Code avengers','Python turtle']                               # Defines 3 Default Apps for the user
         userPasswords=['undefined','undefined','undefined']                                     # Defines 3 Default Passwords for the apps above for the user
         exportData()                                                                            # Exports user data to text file
